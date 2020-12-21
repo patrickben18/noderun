@@ -8,12 +8,12 @@
 },
   "repository": {
   "type": "git",
-  "url": ""
+  "url": "git+https://github.com/patrickben18/noderun.git"
 },
   "author": "",
   "license": "ISC",
   "bugs": {
-  "url": ""
+  "url": "https://github.com/patrickben18/noderun/issues"
 },
-  "homepage": ""
+  "homepage": "https://github.com/patrickben18/noderun"
 }
